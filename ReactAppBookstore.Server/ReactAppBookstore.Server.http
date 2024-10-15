@@ -1,0 +1,6 @@
+@ReactAppBookstore.Server_HostAddress = http://localhost:5200
+
+GET {{ReactAppBookstore.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
